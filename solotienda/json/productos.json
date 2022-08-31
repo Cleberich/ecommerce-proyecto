@@ -1,0 +1,20 @@
+[
+    {"id": 1,"nombre": "Notebook asus", "categoria": "notebook", "precio": 1500, "imagen": "https://servicios.zonatecno.com.uy/productos/Notebook_Gamer_Lenovo_i5_256GB_8GB_GTX_1650_CON_REGALO_tab_1.png", "cantidad": 1},
+    {"id": 2,"nombre": "Macbook pro", "categoria": "notebook", "precio": 2690, "imagen": "https://servicios.zonatecno.com.uy/productos/Notebook_Apple_MacBook_Pro_2020_MYD82LL_M1_256GB_8GB_S.Gray_tab_1.png", "cantidad": 1},
+    {"id": 3,"nombre": "Macbook air", "categoria": "notebook", "precio": 1800, "imagen": "https://servicios.zonatecno.com.uy/productos/Notebook_Apple_MacBook_Air_2017_MQD42LL_A_i5_256GB_8GB_tab_1.png", "cantidad": 1},
+    {"id": 4,"nombre": "Iphone 11", "categoria": "celulares", "precio": 990, "imagen": "https://servicios.zonatecno.com.uy/productos/Celular_Apple_iPhone_11_2020_64GB_4GB_Green_tab_1.png", "cantidad": 1},
+    {"id": 5,"nombre": "Iphone 13", "categoria": "celulares", "precio": 1280, "imagen": "https://servicios.zonatecno.com.uy/productos/Celular_Apple_iPhone_13_128GB_4GB_Blue_tab_1.png", "cantidad": 1},
+    {"id": 6,"nombre": "Iphone x", "categoria": "celulares", "precio": 1280, "imagen": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-x-space-gray-back.png?v=5", "cantidad": 1},
+    {"id": 7,"nombre": "Iphone 8", "categoria": "celulares", "precio": 1280, "imagen": "https://tatauy.vtexassets.com/arquivos/ids/233460-1200-1200?v=637740576270600000&width=1200&height=1200&aspect=true", "cantidad": 1},
+    {"id": 8,"nombre": "Samsung a03S", "categoria": "celulares", "precio": 240, "imagen": "https://servicios.zonatecno.com.uy/productos/Celular_Samsung_Galaxy_A03s_SM-A037M_64GB_4GB_Black_DS_tab_1.png", "cantidad": 1},
+    {"id": 9,"nombre": "Samsung a12", "categoria": "celulares", "precio": 200, "imagen": "https://servicios.zonatecno.com.uy/productos/Celular_Samsung_Galaxy_A03s_SM-A037M_64GB_4GB_White_DS_tab_1.png", "cantidad": 1},
+    {"id": 10,"nombre": "Tablet Samsung Galaxy", "categoria": "tablets", "precio": 187, "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_906746-MLA47146625532_082021-F.webp", "cantidad": 1},
+    {"id": 11,"nombre": "Tablet Samsung Galaxy S6 Lite", "categoria": "tablets", "precio": 487, "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_926566-MLA45821559859_052021-F.webp", "cantidad": 1},
+    {"id": 12,"nombre": "Apple iPad ", "categoria": "tablets", "precio": 200, "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_757641-MLA48047594528_102021-F.webp", "cantidad": 1},
+    {"id": 13,"nombre": "Auriculares inalámbricos Sony", "categoria": "accesorios", "precio": 49, "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_888058-MLA45261137180_032021-F.webp", "cantidad": 1},
+    {"id": 14,"nombre": "Auriculares inalámbricos JBL", "categoria": "accesorios", "precio": 48, "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_899072-MLA46540625629_062021-F.webp", "cantidad": 1},
+    {"id": 14,"nombre": "Auriculares inalámbricos JBL", "categoria": "accesorios", "precio": 69, "imagen": "https://m.media-amazon.com/images/I/71v6FUfBi5L._AC_SL1500_.jpg", "cantidad": 1},
+    {"id": 15,"nombre": "Notebook levono", "categoria": "notebook", "precio": 1290, "imagen": "https://servicios.zonatecno.com.uy/productos/Notebook_Lenovo_i3-10110U_128GB_1TB_8GB_14_MOCHILA_REGALO_tab_1.png", "cantidad": 1}
+   
+
+]
